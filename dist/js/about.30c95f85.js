@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkactivos"]=self["webpackChunkactivos"]||[]).push([[443],{170:function(n,a,c){c.r(a),c.d(a,{default:function(){return v}});var e=c(3396);const s={class:"about"},t=(0,e._)("h1",null,"Integrantes",-1),u=(0,e._)("p",null,"Jose Manuel Menchaca Encinas",-1),r=(0,e._)("p",null,"Carlos Alberto Menchaca Encinas",-1),l=[t,u,r];function o(n,a){return(0,e.wg)(),(0,e.iD)("div",s,l)}var i=c(89);const f={},h=(0,i.Z)(f,[["render",o]]);var v=h}}]);
+//# sourceMappingURL=about.30c95f85.js.map

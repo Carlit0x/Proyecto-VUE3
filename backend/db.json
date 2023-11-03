@@ -1,0 +1,42 @@
+{
+  "areas": [
+    {
+      "departamento": "TIC",
+      "encargado": "Mario Martinez Apaza",
+      "num_funcionario": "3",
+      "id": 2,
+      "estado": true
+    },
+    {
+      "departamento": "SERVICIO",
+      "encargado": "Rosmery Colque",
+      "num_funcionario": "8",
+      "id": 3,
+      "active": true
+    },
+    {
+      "departamento": "JAF",
+      "encargado": "Maxima Fernandez",
+      "num_funcionario": "5",
+      "id": 4,
+      "active": true
+    },
+    {
+      "departamento": "LIMPIEZA",
+      "encargado": "Maribel Quispe",
+      "num_funcionario": "5",
+      "id": 5,
+      "active": true
+    }
+  ],
+  "activos": [
+    {
+      "id_a": 1,
+      "tipo": "Comunicacion",
+      "marca": "CISCO",
+      "modelo": "Catalyst 2960",
+      "estado": "nuevo",
+      "areaId": 1
+    }
+  ]
+}
