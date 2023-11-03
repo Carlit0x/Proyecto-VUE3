@@ -1,3 +1,7 @@
+# integrantes
+Jose Manuel Menchaca Encinas
+Carlos Alberto Menchaca Encinas
+
 # activos
 
 ## Project setup
